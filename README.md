@@ -1,13 +1,13 @@
-# AILatest Major (知途) · 大学专业培养方案图谱 🧭
+# AILatest Major · 知途 🧭
 
 <p align="center">
   <b>800+ 大学专业真实培养方案与核心课程依赖图谱对比。</b><br>
-  透视大学四年到底学什么、怎么学、毕业去哪儿，打破高考填报与考研跨考的信息壁垒。
+  透视大学四年到底学什么、怎么学、毕业去哪儿，打破高考选科与考研跨考的信息壁垒。
 </p>
 
 <p align="center">
-  <a href="https://major.ailatest.org/"><img src="https://img.shields.io/badge/Live_Site-major.ailatest.org-10b981?style=for-the-badge&logo=cloudflare" alt="Live Site"></a>
-  <a href="https://ailatest.org/projects/major/"><img src="https://img.shields.io/badge/Studio_Page-Major-teal?style=for-the-badge" alt="Studio"></a>
+  <a href="https://major.ailatest.org/"><img src="https://img.shields.io/badge/立即探索-major.ailatest.org-10b981?style=for-the-badge&logo=cloudflare" alt="Live Site"></a>
+  <a href="https://ailatest.org/projects/major/"><img src="https://img.shields.io/badge/产品介绍页-知途-teal?style=for-the-badge" alt="Studio"></a>
 </p>
 
 ---
@@ -17,17 +17,17 @@
 ### 1. 官方封面插画
 <p align="center">
   <a href="https://major.ailatest.org/">
-    <img src="assets/covers/major.webp" alt="Major 官方封面插画" width="920">
+    <img src="assets/covers/major.webp" alt="知途官方封面插画" width="920">
   </a>
 </p>
 
-### 2. 真实在线课程图谱截图 (Live Application Screenshot)
+### 2. 真实在线课程图谱截图 (Live Application Interface)
 <p align="center">
   <a href="https://major.ailatest.org/">
-    <img src="assets/screenshots/preview.png" alt="Major 真实在线课程图谱截图" width="920">
+    <img src="assets/screenshots/preview.png" alt="知途真实在线课程图谱截图" width="920">
   </a>
 </p>
-<p align="center"><em>界面截图截取自线上生产环境 <a href="https://major.ailatest.org/">major.ailatest.org</a>。</em></p>
+<p align="center"><em>界面截图截取自线上站点 <a href="https://major.ailatest.org/">major.ailatest.org</a>。</em></p>
 
 ---
 
