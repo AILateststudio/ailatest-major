@@ -49,6 +49,10 @@
 
 ---
 
+### 🏷 Related Topics & Search Keywords
+`college-majors` · `university-curriculum` · `course-prerequisite-graph` · `career-topology` · `gaokao-volunteer` · `civil-service-majors` · `higher-education-china` · `academic-pathway`
+
+---
 <a id="chinese"></a>
 <p align="right">
   <a href="#top"><b>Back to Top (English)</b></a> | <b>中文说明</b>
@@ -73,3 +77,6 @@
    - 基于考生成绩位次与个人城市、专业偏好，科学搭建梯度合理的志愿方案，防范退档风险。
 
 🌐 **立即在线体验**：[**https://major.ailatest.org/**](https://major.ailatest.org/)
+
+### 🏷 热门搜索关键词与相关主题
+`知途` · `大学专业查询` · `高考志愿填报` · `培养方案查询` · `课程先修图谱` · `考公专业对照表` · `历年投档线` · `录取位次查询` · `冲稳保志愿策略` · `人工智能专业` · `就业质量报告`
